@@ -1,0 +1,6 @@
+1. Install Heroku CLI
+2. Jalanin "heroku login" di command line
+3. Setelah login, masuk ke folder project
+4. jalanin "heroku create"
+5. nanti bakal ada remote baru dengan nama "heroku" (cek dengan "git remote --verbose")
+6. Jalanin "git push heroku
